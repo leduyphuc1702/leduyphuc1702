@@ -1,6 +1,6 @@
 # Le Duy Phuc
 
-Independent researcher (learning theory, combinatorics, machine-checked proofs) and full-stack engineer, Vietnam.
+Independent researcher (machine learning, learning theory, combinatorics, machine-checked proofs) and full-stack engineer, Vietnam.
 
 [ORCID 0009-0007-5208-3097](https://orcid.org/0009-0007-5208-3097) ·
 [Google Scholar](https://scholar.google.com/citations?user=ObPZGFEAAAAJ) ·
@@ -9,6 +9,9 @@ Independent researcher (learning theory, combinatorics, machine-checked proofs) 
 ## Preprints
 
 All are preprints on Zenodo and have not been peer-reviewed.
+
+**Machine learning**
+- Minimal is rare: does gradient descent find the provably minimal number of attention heads? (2026). [doi:10.5281/zenodo.24574803](https://doi.org/10.5281/zenodo.24574803) · [code and data](https://github.com/leduyphuc1702/minimal-heads-trainability)
 
 **Learning theory**
 - The Littlestone dimension of axis-parallel boxes on two rows (2026). [doi:10.5281/zenodo.24553872](https://doi.org/10.5281/zenodo.24553872)
